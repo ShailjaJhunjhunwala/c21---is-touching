@@ -1,1 +1,2 @@
-# c21---is-touching
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
